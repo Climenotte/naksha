@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "centre_apicole",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "id": 1, "properties": { "FID_": 1.0, "X_long": -7.130365, "Y_lat": 30.986649, "Ouvrage": "Centre de valorisation apicole", "Site": "Timadline", "Date": 2018.0, "Commune": "Ait Zineb", "Province": "Ouarzazate", "Cout_Amgt": 798161.88 }, "geometry": { "type": "Point", "coordinates": [ -7.130365, 30.986649 ] } }
-]
-}
