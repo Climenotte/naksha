@@ -1,5 +1,5 @@
 
-{"tiles":["https://raw.githubusercontent.com/Climenotte/naksha/main/tiles/tileset.json/{z}/{x}/{y}.png"],
+{"tiles":["https://raw.githubusercontent.com/Climenotte/naksha/main/tiles/{z}/{x}/{y}.png"],
 "name":"",
 "format":"png",
 "basename":"jaxa_terrainrgb_0-12 .mbtiles",
